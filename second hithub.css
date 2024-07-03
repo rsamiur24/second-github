@@ -1,0 +1,9 @@
+.second{
+    background-color: rgb(166, 255, 0);
+    margin: 20px;
+    padding: 20px;
+    background-image: url(galary.jpg);
+    background-image: 100px;
+    background-repeat: no-repeat;
+
+}
